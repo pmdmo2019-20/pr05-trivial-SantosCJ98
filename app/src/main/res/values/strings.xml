@@ -36,4 +36,13 @@
     <string name="game_won_btnNextMatch">Next Match</string>
     <string name="game_won_imgYouWin">You win</string>
 
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="keySeek">1</string>
+    <string name="defaultSeek">3</string>
+    <string name="confirmation_title">Are you sure?</string>
+    <string name="confirmation_message">Are you really sure you want to exit?</string>
+    <string name="confirmation_yes">Yes</string>
+    <string name="confirmation_no">No</string>
+
 </resources>

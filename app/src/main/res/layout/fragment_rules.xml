@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+
+
+        <ImageView
+            android:id="@+id/imgFR"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:padding="20dp"
+            android:src="@drawable/trivia_rules">
+
+
+        </ImageView>
+
+            <TextView
+                android:id="@+id/lblFR"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.75"
+                android:textSize="20sp"
+                android:text="@string/rules_lblRules"></TextView>
+
+        </LinearLayout>
